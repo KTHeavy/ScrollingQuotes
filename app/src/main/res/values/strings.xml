@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ScrollingQuotes</string>
+    <string name="quote1">"\"Switching from what you don't like to do to what you do like to do is like putting a 500-horsepower-motor in a 10-year-old car.\""
+– David Schwartz</string>
+    <string name="quote2">"\"I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor.\""
+- Henry David Thoreau</string>
+    <string name="quote3">"\"Only put off until tomorrow what you are willing to die having left undone.\"" - Pablo Picasso</string>
+    <string name="quote4">"\"Twenty years from now, you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.\"" - Mark Twain</string>
+    <string name="quote5">"\"Truth is the shortest distance between two people\" - Mel Robbins
+</string>
+    <string name="quote6">"\"A man should learn to detect and watch that gleam of light which flashes across his mind from within more than the luster of the firmament of bards and sages. Yet he dismisses without notice his thought, because it is his. In every work of genius we recognize our own rejected thoughts. They come back to us with a certain alienated majesty.\"" – Ralph Waldo Emerson</string>
+    <string name="quote7">"\"Do not think that what is hard for you to master is humanly impossible, and if it is humanly possible, consider it to be within your reach.\""
+- Marcus Aurelius</string>
+    <string name="quote8">"\"Make your acceptance of human nature as radical as possible.\""
+- Robert Green, The Laws of Human Nature</string>
+    <string name="quote9">"\"You can feel uncertain and be ready. You can be afraid and do it anyway. You can fear rejection and still go for it.\""
+- Mel Robbins</string>
+    <string name="quote10">"\"That which is most personal is most general.\"" – Carl Rogers</string>
+</resources>
